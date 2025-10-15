@@ -1,0 +1,2 @@
+0
+SimpleGoal:Exercise,Go for a 30-minute run,100,False
